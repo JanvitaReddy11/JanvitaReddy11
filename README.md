@@ -6,6 +6,14 @@
 ## Machine Learning Enthusiast
 
 I am a machine learning enthusiast with a passion for developing innovative AI solutions. My main areas of interest are computer vision and generative AI. I'm currently diving deep into using large language models (LLMs) and vision transformers.
+## 🎓 Education
+
+- **Master of Science**  
+  Texas A&M University, Masters in Data Science
+
+- **Bachelor of Technology in Information Technology**  
+  Sardar Vallabhbhai National Institute of Technology, BTech in Mechanical Engineering
+
 
 ## 💼 Work
 I work on various machine learning projects, focusing on computer vision for agriculture. Currently, I am experimenting and exploring different segmentation architectures for cotton yield predictions. I enjoy solving real-world problems using AI and constantly learning about new technologies and methodologies.
@@ -41,6 +49,7 @@ I work on various machine learning projects, focusing on computer vision for agr
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+
 ## 🌟 Add-ons
 
 ### Display visitors count badge
@@ -58,12 +67,6 @@ I work on various machine learning projects, focusing on computer vision for agr
 ### Display GitHub streak stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JanvitaReddy11&theme=radical)
 
-## 🚀 Projects
-Here are some of my notable projects:
-- [**Project Name 1**](https://github.com/JanvitaReddy11/project1): Brief description of what this project does.
-- [**Project Name 2**](https://github.com/JanvitaReddy11/project2): Brief description of what this project does.
-- [**Project Name 3**](https://github.com/JanvitaReddy11/project3): Brief description of what this project does.
-
 ## 📫 How to Reach Me
 - **Email:** [reddyjanvita11@gmail.com](mailto:reddyjanvita11@gmail.com)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/janvita/)
@@ -74,7 +77,3 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 ---
 
 Thank you for visiting my GitHub profile! If you found my projects interesting or useful, don't forget to give them a star ⭐.
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=JanvitaReddy11&color=blue)
