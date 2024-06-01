@@ -67,12 +67,14 @@ I work on various machine learning projects, focusing on computer vision for agr
 ### Display GitHub streak stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JanvitaReddy11&theme=radical)
 
+
+## 💬 Let's Connect!
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out to me!
+
 ## 📫 How to Reach Me
 - **Email:** [reddyjanvita11@gmail.com](mailto:reddyjanvita11@gmail.com)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/janvita/)
 
-## 💬 Let's Connect!
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out to me!
 
 ---
 
